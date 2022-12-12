@@ -1,3 +1,4 @@
-This repository contains...
+# Mini Mobile Apps
+To learn and practice mobile app programming, I sometimes create these mini apps!
 
-Click on the different branches to see the different projects!
+Switch branches to see the different projects!

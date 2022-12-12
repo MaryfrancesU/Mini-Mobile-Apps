@@ -1,3 +1,3 @@
-This repository contains...
+# Randomizer
 
-Click on the different branches to see the different projects!
+This is a simple one-page application that generates a random number within a user-specified range.

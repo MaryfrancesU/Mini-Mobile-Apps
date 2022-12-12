@@ -1,3 +1,5 @@
-This repository contains...
+# Simple Calculator
 
-Click on the different branches to see the different projects!
+This is a simple calculator app created using Android Studio and Java!
+
+At this point, order of operations (PEMDAS) functionality is not included.
